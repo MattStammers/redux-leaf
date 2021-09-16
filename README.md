@@ -1,7 +1,7 @@
 # redux-leaf
 ### Python programming homework challenge for SHO level data engineering interview 04/10/2021
 
-- The challenge is simple. In the modern NHS we are supposed to be going paper-light and carbon neutral. Most NHS trusts have opted to scan their text in typically as lovely PDF's. This is sort-of-ok for humans to read as long as clinic letters don't resemble 'War and Peace' but substantially inadequate for machines who cannot natively perceive text in an image. Instructions are:
+The challenge is simple. In the modern NHS we are supposed to be going paper-light and carbon neutral. Most NHS trusts have opted to scan their text in typically as lovely PDF's. This is sort-of-ok for humans to read as long as clinic letters don't resemble 'War and Peace' but substantially inadequate for machines who cannot natively perceive text in an image. Instructions are:
 
 1) The challenge is to build a simple application which can take in the contents in the image folder and digitize the text contained therein. I would never set a challenge which I haven't already solved to a reasonable level and I guarantee the solution to this problem is not particularly challenging. 
 

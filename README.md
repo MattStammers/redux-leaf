@@ -7,7 +7,7 @@ The challenge is simple. In the modern NHS we are supposed to be going paper-lig
 
 2) Scalability is not important here - this is about creating a simple application using Python to solve a small demonstration problem. You can use any packages or API's you want. The data is all entirely fictious psuedodata.
 
-3) Marking is primarily focused on the way the problem was solved. Please fork/download this repository as the base and when finished upload your solution to whatever repository you choose (my favourite is normally Gitlab) and share access with me privately at the email address sent to you prior. 
+3) Marking is primarily focused on the way the problem was solved. Please fork/download this repository as the base and when finished upload your solution to whatever repository you choose (my favourite is normally Gitlab) and share access with me privately at the email address sent to you prior. If you want to do anything like attempt word tagging then you can but this is optional.
 
 4) Deadline for submission is 1st October 2021. Even if you can't fully solve the problem I still recommend submitting whatever you have been able to complete.
 

@@ -11,4 +11,4 @@ The challenge is simple. In the modern NHS we are supposed to be going paper-lig
 
 Good luck!
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+[![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg)](https://digitalocean.com)

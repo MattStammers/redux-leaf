@@ -1,5 +1,5 @@
 # redux-leaf
-### Python programming homework challenge for SHO level data engineering interview 04/10/2021
+### Python programming homework challenge for SHO level data engineering interview 17/09/2021 - 01/09/2021
 
 The challenge is simple. In the modern NHS we are supposed to be going paper-light and carbon neutral. Most NHS trusts have opted to scan their text in typically as lovely PDF's. This is sort-of-ok for humans to read as long as clinic letters don't resemble 'War and Peace' but substantially inadequate for machines who cannot natively perceive text in an image. Instructions are:
 
